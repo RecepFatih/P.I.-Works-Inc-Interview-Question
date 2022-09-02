@@ -1,6 +1,13 @@
 # P.I.-Works-Inc-Interview-Question
 P.I. Works, Inc Interview Question - the user interface specification document <br/>
 
+## QUESTION <br/>
+Please prepare the user interface specification document in English for the user management screen below (Markdown syntax preferred). It should include the requirements, details related to UI components, the behavior of the page when using these components, what to show to the user at the beginning, etc. This document will be used by Software developers who will develop this user interface. <br/>
+
+![the user management screen](https://github.com/RecepFatih/P.I.-Works-Inc-Interview-Question/blob/main/question.png) <br/>
+
+## ANSWER <br/>
+
 * When the screen is first turned on; <br/>
   *    There should be a "New User" button in the upper left corner. <br/>
   *    There should be a "Hide Disabled User" option next to the "New User" button. <br/>
